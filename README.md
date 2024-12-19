@@ -2,7 +2,7 @@
 
 The second homework project in the GoIT Full Stack Developer course.
 
-This assignment builds on the HTML structure created in the goit-markup-hw-01 project by applying CSS styling to enhance the web page’s appearance.
+This assignment builds on the HTML structure created in the [goit-markup-hw-01]([https://www.google.com](https://github.com/ebudemirkazik/goit-markup-hw-01)) project by applying CSS styling to enhance the web page’s appearance.
 
  # Objectives
 * Add CSS styles to the existing HTML skeleton.
