@@ -16,6 +16,8 @@
   --cloud: #f4f4fd;
 }
 body {
+  color: var(--slate);
+  background-color: #FFFFFF;
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
@@ -23,11 +25,11 @@ body {
   letter-spacing: 2%;
 }
 h1 {
-    font-family: "Roboto", sans-serif;
-    font-weight: bold;
-    font-size: 56px;
-    letter-spacing: 2%;
-    line-height: 1.2;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  font-size: 56px;
+  letter-spacing: 2%;
+  line-height: 1.2;
 }
 h2 {
   font-family: "Roboto", sans-serif;
@@ -48,13 +50,13 @@ ul {
   list-style-type: none;
 }
 button {
-    cursor: pointer;
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    letter-spacing: 4%;
-    line-height: 1.5;
-  }
+  cursor: pointer;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 4%;
+  line-height: 1.5;
+}
 
 /* MAİN HEADER */
 .main-header {
