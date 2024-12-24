@@ -77,7 +77,7 @@ header {
   height: 72px;
 }
 /* logo */
-header .main-logo .logo-1 {
+header .main-logo .header-logo-link {
   color: var(--iris);
   text-transform: uppercase;
   font-family: "Roboto", sans-serif;
@@ -142,18 +142,23 @@ address {
 
 address .address-list .address-link-2 {
   margin-right: 0px;
-}
-address .address-list {
-  display: flex;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--slate)
 }
 
-address .address-list li a{
+address .address-list .address-link-1 {
   margin-right: 40px;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--slate)
 }
+address .address-list {
+  display: flex;
+}
+
 address .address-list li a:hover {
   color: #404bbf;
 }
@@ -165,6 +170,11 @@ address .address-list li a:focus {
 
 /* HEADER */
 
+/* HERO İMAGE SECTİON */
+
+
+
+/* HERO İMAGE SECTİON */
 
 /* FOOTER */
 
