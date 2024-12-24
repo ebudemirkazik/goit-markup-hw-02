@@ -87,7 +87,7 @@ header .main-logo .header-logo-link {
   letter-spacing: 0.03em;
 }
 
-header .main-logo .logo-2 {
+header .main-logo span {
   color: var(--navy-blue);
   text-transform: uppercase;
   font-family: "Roboto", sans-serif;
@@ -193,7 +193,7 @@ footer .footer-box {
   margin-left: 156px;
 }
 
-footer .footer-box .footer-logo-link .logo-1 {
+footer .footer-box .footer-logo-link .footer-logo-link {
   color: var(--iris);
   text-transform: uppercase;
   font-family: "Roboto", sans-serif;
@@ -203,7 +203,7 @@ footer .footer-box .footer-logo-link .logo-1 {
   letter-spacing: 0.03em;
 }
 
-footer .footer-box .footer-logo-link .logo-2 {
+footer .footer-box .footer-logo-link span {
   color: var(--cloud);
   text-transform: uppercase;
   font-family: "Roboto", sans-serif;
