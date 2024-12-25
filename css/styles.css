@@ -92,3 +92,104 @@ address .address-list .address-link:focus {
 }
 /* HERO SECTİON */
 
+/* LİST SECTİON */
+
+section .list-items .list-items-h3 {
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+section .list-items .list-items-p {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+/* LİST SECTİON */
+
+/* OUR TEAM SECTİON */
+
+.our-team {
+  background-color: #f4f4fd;
+}
+section .our-team-header {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+section .our-teams {
+  background-color: #ffffff;
+}
+
+section .our-team-h3 {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+section .our-team-p {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+/* OUR TEAM SECTİON */
+
+/* our-portfolio */
+
+section .our-portfolio-h2 {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+section .portfolio-h3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+section .portfolio-p {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+/* our-portfolio */
+
+/* FOOTER */
+
+footer {
+  background-color: #2e2f42;
+}
+
+footer .footer-logo-link {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+
+footer .footer-logo-link .logo-2 {
+    color: #2e2f42;
+}
+footer .footer-p {
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
+}
+/* FOOTER */
