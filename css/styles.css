@@ -93,7 +93,7 @@ address .address-list .address-link:focus {
 
 /* LİST SECTİON */
 
-section .list-items .list-items-h3 {
+section .list-items .list-header {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -127,7 +127,7 @@ section .our-teams {
   background-color: #ffffff;
 }
 
-section .our-team-h3 {
+section .ourteam-header {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
