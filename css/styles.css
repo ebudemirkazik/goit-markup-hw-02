@@ -153,7 +153,7 @@ section .our-team-p {
   color: #2e2f42;
 }
 
-section .portfolio-h3 {
+section .portfolio-header {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -184,7 +184,7 @@ footer a {
   color: #4d5ae5;
 }
 
-footer .footer-logo-link span {
+footer .footer-logo-link .footer-span {
   color: #F4F4FD;
 }
 footer .footer-p {
