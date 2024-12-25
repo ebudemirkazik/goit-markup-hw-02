@@ -16,7 +16,7 @@ a {
 
 
 /* HEADER */
-header nav .header-logo-link {
+header nav a {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -114,7 +114,7 @@ section .list-items .list-items-p {
 .our-team {
   background-color: #f4f4fd;
 }
-section .our-team-header {
+.our-team .our-team-header {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -144,7 +144,7 @@ section .our-team-p {
 
 /* our-portfolio */
 
-section .our-portfolio-h2 {
+.our-portfolio h2 {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -174,7 +174,7 @@ footer {
   background-color: #2e2f42;
 }
 
-footer .footer-logo-link {
+footer a {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
